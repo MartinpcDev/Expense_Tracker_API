@@ -1,4 +1,4 @@
-package com.martin.api.util.dto;
+package com.martin.api.util.dto.auth;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

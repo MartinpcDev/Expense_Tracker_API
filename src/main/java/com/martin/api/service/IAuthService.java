@@ -1,8 +1,8 @@
 package com.martin.api.service;
 
-import com.martin.api.util.dto.AuthResponse;
-import com.martin.api.util.dto.LoginRequest;
-import com.martin.api.util.dto.RegisterRequest;
+import com.martin.api.util.dto.auth.AuthResponse;
+import com.martin.api.util.dto.auth.LoginRequest;
+import com.martin.api.util.dto.auth.RegisterRequest;
 
 public interface IAuthService {
 
